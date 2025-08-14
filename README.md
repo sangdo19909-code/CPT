@@ -7,9 +7,9 @@ Sports Climbing Navigation System for co-op test
 ### 브랜치 규칙
 
 > feature/*
->
-> 기능 이름을 영문으로 길이는 자유롭게 입력합니다.
->
+
+기능 이름을 영문으로 길이는 자유롭게 입력합니다.
+
 > bugfix/?-release 
 
  버그 픽스 간에 ?자리에 숫자를 순서대로 넣어가며 브랜치 이름을 작성합니다.
